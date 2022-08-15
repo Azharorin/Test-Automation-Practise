@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite Test">
+    <test name="Simple test for basic auths">
+        <classes>
+
+            <class name="com.Browseroption.Singleframe"></class>
+
+
+        </classes>
+
+    </test>
+</suite>

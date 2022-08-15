@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Testsuite01">
+    <test name="azhar alam test">
+        <classes>
+
+            <class name="TestNGDemo.LoginTestNG"></class>
+
+
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Azhar">
+    <test name="Simple test for basic auth">
+        <classes>
+
+            <class name="com.Browseroption.Headless"></class>
+
+
+        </classes>
+
+    </test>
+</suite>
